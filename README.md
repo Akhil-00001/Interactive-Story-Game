@@ -98,8 +98,9 @@ Copy code
 ├── images/ # Scene background images
 └── README.md
 
-yaml
+```yaml
 Copy code
+```
 
 ---
 
@@ -110,13 +111,13 @@ Copy code
 gcc anthea.c -o anthea.exe
 ```
 ### 2️⃣ Start the Backend Bridge
-Copy code
 ```bash
+Copy code
 node bridge.js
 ```
 ### 3️⃣ Launch the Frontend
-Copy code
 ```bash
+Copy code
 Open index.html in your browser
 ```
 ### 🧩 Key Learning Outcomes
